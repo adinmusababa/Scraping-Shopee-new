@@ -143,7 +143,7 @@ def shopee(url, cookies_json):
         return
 
     # Write CSV – file name includes shop id to avoid collisions.
-    csv_name = f"shoope_rating_{shop_id}.csv"
+    csv_name = f"shoope_rating_ptp_{shop_id}.csv"
     keys = result[0].keys()
     with open(csv_name, "w", newline="", encoding="utf-8") as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
@@ -155,6 +155,6 @@ def shopee(url, cookies_json):
 
 if __name__ == '__main__':    
     # silakan ganti page rating toko jika ingin mengambil data review dan rating dari toko lain
-    url_shop = "https://shopee.co.id/buyer/22491750/rating?shop_id=22490414"
+    url_shop = "https://shopee.co.id/buyer/52636424/rating?shop_id=52635036"
     cookies_json = "cookies.json"
     shopee(url_shop, cookies_json)

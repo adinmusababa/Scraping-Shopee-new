@@ -27,7 +27,7 @@
     },
     {
         "domain": ".shopee.co.id",
-        "expirationDate": 1790905115.704426,
+        "expirationDate": 1790933033.799399,
         "hostOnly": false,
         "httpOnly": true,
         "name": "SPC_SI",
@@ -79,7 +79,7 @@
     },
     {
         "domain": ".shopee.co.id",
-        "expirationDate": 1825378715.70453,
+        "expirationDate": 1825406633.799669,
         "hostOnly": false,
         "httpOnly": false,
         "name": "SPC_R_T_ID",
@@ -92,7 +92,7 @@
     },
     {
         "domain": ".shopee.co.id",
-        "expirationDate": 1825378715.704628,
+        "expirationDate": 1825406633.797857,
         "hostOnly": false,
         "httpOnly": false,
         "name": "SPC_R_T_IV",
@@ -131,7 +131,7 @@
     },
     {
         "domain": ".shopee.co.id",
-        "expirationDate": 1825378715.704154,
+        "expirationDate": 1825406633.798736,
         "hostOnly": false,
         "httpOnly": true,
         "name": "SPC_T_ID",
@@ -144,7 +144,7 @@
     },
     {
         "domain": ".shopee.co.id",
-        "expirationDate": 1825378715.704333,
+        "expirationDate": 1825406633.799108,
         "hostOnly": false,
         "httpOnly": true,
         "name": "SPC_T_IV",

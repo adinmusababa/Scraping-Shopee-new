@@ -6,3 +6,15 @@ shoope_rating_22490414.csv
 shoope_rating_appelhouse.store.csv
 shoope_rating_ifonespot.csv
 shoope_rating_jordancornerstore.csv
+
+chrome_profile/
+data_politik/
+data_shopee/
+data_twiter/
+gmaps/
+output2/
+preprocessing/*.csv
+
+
+
+cookies.json
