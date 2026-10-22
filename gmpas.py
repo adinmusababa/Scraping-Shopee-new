@@ -31,8 +31,7 @@ SEL = {
     "review_card": "div.jftiEf",
 }
 
-# JavaScript yang dijalankan di dalam halaman (jauh lebih cepat daripada
-# memanggil Playwright per-elemen, penting untuk ribuan review)
+# JavaScript yang dijalankan di dalam halaman (jauh lebih cepat daripada memanggil Playwright per-elemen, penting untuk ribuan review)
 JS_MARK = """
 (batch) => {
   let n = 0;
